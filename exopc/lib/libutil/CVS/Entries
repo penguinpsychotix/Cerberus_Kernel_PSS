@@ -1,0 +1,19 @@
+/GNUmakefile/1.2/Mon Aug 31 18:38:10 1998//
+/Makefile/1.2/Mon Aug 31 18:38:10 1998//
+/getmaxpartitions.c/1.1.1.1/Mon Jun 15 21:11:10 1998//
+/getrawpartition.c/1.1.1.1/Mon Jun 15 21:11:10 1998//
+/login.c/1.2/Mon Aug 31 18:38:10 1998//
+/login_fbtab.c/1.2/Mon Aug 31 18:38:10 1998//
+/login_tty.c/1.2/Mon Aug 31 18:38:10 1998//
+/logout.c/1.2/Mon Aug 31 18:38:10 1998//
+/logwtmp.c/1.2/Mon Aug 31 18:38:11 1998//
+/opendev.c/1.1.1.1/Mon Jun 15 21:11:10 1998//
+/passwd.c/1.2/Mon Aug 31 18:38:11 1998//
+/pty.c/1.2/Mon Aug 31 18:38:11 1998//
+/readlabel.c/1.1.1.1/Mon Jun 15 21:11:10 1998//
+/scsi.c/1.1.1.1/Mon Jun 15 21:11:10 1998//
+/scsi.h/1.1.1.1/Mon Jun 15 21:11:10 1998//
+/shlib_version/1.2/Mon Aug 31 18:38:11 1998//
+/util.h/1.2/Mon Aug 31 18:38:11 1998//
+/uucplock.c/1.2/Mon Aug 31 18:38:11 1998//
+D

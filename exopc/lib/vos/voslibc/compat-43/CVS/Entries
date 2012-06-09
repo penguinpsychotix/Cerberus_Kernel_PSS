@@ -1,0 +1,16 @@
+/GNUmakefile.inc/1.1/Thu Jul  1 19:49:55 1999//
+/__setregid.c/1.1/Thu Jul  1 19:49:55 1999//
+/__setreuid.c/1.1/Thu Jul  1 19:49:55 1999//
+/creat.c/1.1/Thu Jul  1 19:49:55 1999//
+/getdtablesize.c/1.1/Thu Jul  1 19:49:56 1999//
+/gethostid.c/1.1/Thu Jul  1 19:49:56 1999//
+/getwd.c/1.1/Thu Jul  1 19:49:56 1999//
+/killpg.c/1.1/Thu Jul  1 19:49:56 1999//
+/sethostid.c/1.1/Thu Jul  1 19:49:56 1999//
+/setpgrp.c/1.1/Thu Jul  1 19:49:57 1999//
+/setregid.c/1.1/Thu Jul  1 19:49:57 1999//
+/setreuid.c/1.1/Thu Jul  1 19:49:57 1999//
+/setrgid.c/1.1/Thu Jul  1 19:49:57 1999//
+/setruid.c/1.1/Thu Jul  1 19:49:57 1999//
+/sigcompat.c/1.1/Thu Jul  1 19:49:58 1999//
+D

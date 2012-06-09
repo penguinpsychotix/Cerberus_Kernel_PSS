@@ -1,0 +1,20 @@
+/GNUmakefile/1.1.1.1/Mon Jun 15 21:10:09 1998//
+/README/1.1.1.1/Mon Jun 15 21:10:09 1998//
+/dinode.h/1.1.1.1/Mon Jun 15 21:10:09 1998//
+/dirent.h/1.1.1.1/Mon Jun 15 21:10:09 1998//
+/disk.c/1.1.1.1/Mon Jun 15 21:10:09 1998//
+/disk.h/1.1.1.1/Mon Jun 15 21:10:09 1998//
+/ffs.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs.h/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_alloc.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_balloc.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_bmap.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_dir.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_file.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_internal.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_internal.h/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_subr.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/ffs_tables.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/fs.h/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/inode.h/1.1.1.1/Mon Jun 15 21:10:10 1998//
+D

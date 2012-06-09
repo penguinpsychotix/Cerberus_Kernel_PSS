@@ -1,0 +1,22 @@
+/.cvsignore/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/GNUmakefile/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/Makefile/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/README/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/authenc.c/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/commands.c/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/commands.cpp/1.1.1.1/Mon Jun 15 21:09:27 1998//
+/defines.h/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/externs.h/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/fdset.h/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/general.h/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/main.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/network.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/ring.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/ring.h/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/sys_bsd.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/telnet.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/terminal.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/tn3270.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/types.h/1.1.1.1/Mon Jun 15 21:09:28 1998//
+/utilities.c/1.1.1.1/Mon Jun 15 21:09:28 1998//
+D

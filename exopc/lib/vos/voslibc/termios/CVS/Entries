@@ -1,0 +1,16 @@
+/GNUmakefile.inc/1.1/Thu Jul  1 19:50:23 1999//
+/cfgetispeed.c/1.1/Thu Jul  1 19:50:23 1999//
+/cfgetospeed.c/1.1/Thu Jul  1 19:50:23 1999//
+/cfmakeraw.c/1.1/Thu Jul  1 19:50:23 1999//
+/cfsetispeed.c/1.1/Thu Jul  1 19:50:24 1999//
+/cfsetospeed.c/1.1/Thu Jul  1 19:50:24 1999//
+/cfsetspeed.c/1.1/Thu Jul  1 19:50:24 1999//
+/tcdrain.c/1.1/Thu Jul  1 19:50:24 1999//
+/tcflow.c/1.1/Thu Jul  1 19:50:24 1999//
+/tcflush.c/1.1/Thu Jul  1 19:50:25 1999//
+/tcgetattr.c/1.1/Thu Jul  1 19:50:25 1999//
+/tcgetpgrp.c/1.1/Thu Jul  1 19:50:25 1999//
+/tcsendbreak.c/1.1/Thu Jul  1 19:50:25 1999//
+/tcsetattr.c/1.1/Thu Jul  1 19:50:25 1999//
+/tcsetpgrp.c/1.1/Thu Jul  1 19:50:26 1999//
+D

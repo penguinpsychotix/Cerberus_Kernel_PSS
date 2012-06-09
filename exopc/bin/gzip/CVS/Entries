@@ -1,0 +1,24 @@
+/.cvsignore/1.1.1.1/Mon Jun 15 21:08:37 1998//
+/GNUmakefile/1.1.1.1/Mon Jun 15 21:08:37 1998//
+/Makefile/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/bits.c/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/crypt.c/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/crypt.h/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/deflate.c/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/getopt.c/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/getopt.h/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/gzip.c/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/gzip.h/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/inflate.c/1.1.1.1/Mon Jun 15 21:08:38 1998//
+/lzw.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/lzw.h/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/revision.h/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/tailor.h/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/trees.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/unlzh.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/unlzw.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/unpack.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/unzip.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/util.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+/zip.c/1.1.1.1/Mon Jun 15 21:08:39 1998//
+D

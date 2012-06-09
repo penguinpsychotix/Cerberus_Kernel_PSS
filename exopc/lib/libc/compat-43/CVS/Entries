@@ -1,0 +1,16 @@
+/Makefile.inc/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/__setregid.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/__setreuid.c/1.1.1.1/Mon Jun 15 21:10:10 1998//
+/creat.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/getdtablesize.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/gethostid.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/getwd.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/killpg.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/sethostid.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/setpgrp.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/setregid.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/setreuid.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/setrgid.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/setruid.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+/sigcompat.c/1.1.1.1/Mon Jun 15 21:10:11 1998//
+D
